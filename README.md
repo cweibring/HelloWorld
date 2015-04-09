@@ -4,8 +4,4 @@ HelloWorld
 Hello World Build Sample !
 
 Updated for US63
-SOmething changed
-Somethin else changed
-gjfgj
-djfjsdfhk
-dflsdhfs
+Some new information
